@@ -1,4 +1,4 @@
-* UPDATING TO NEW BABEL
+# UPDATING TO NEW BABEL
 
 
 Updates include the new syntax for running babel preprocessor in mocha. See the 
